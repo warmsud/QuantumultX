@@ -1,0 +1,55 @@
+# ---- 搜索引擎与服务分流 ----
+
+# > Google 系列
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,scholar.google.com
+DOMAIN-SUFFIX,books.google.com
+DOMAIN-SUFFIX,translate.google.com
+IP-CIDR,8.8.8.0/24,no-resolve
+IP-CIDR,8.34.208.0/20,no-resolve
+IP-CIDR,8.35.192.0/20,no-resolve
+IP-CIDR,172.217.0.0/16,no-resolve
+IP-CIDR,216.58.192.0/19,no-resolve
+
+# > YouTube
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+IP-CIDR,172.217.0.0/16,no-resolve
+
+# > Google Drive
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,sheets.google.com
+DOMAIN-SUFFIX,slides.google.com
+DOMAIN-SUFFIX,forms.google.com
+
+# > Google Workspace (Gmail、Calendar、Meet 等)
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,calendar.google.com
+DOMAIN-SUFFIX,meet.google.com
+DOMAIN-SUFFIX,chat.google.com
+DOMAIN-SUFFIX,hangouts.google.com
+
+# > Google Play
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,dl.google.com
+
+# > Maps 和相关服务
+DOMAIN-SUFFIX,maps.google.com
+DOMAIN-SUFFIX,earth.google.com
+DOMAIN-SUFFIX,streetviewpixels-pa.googleapis.com
+DOMAIN-SUFFIX,streetviewcdn-pa.googleapis.com

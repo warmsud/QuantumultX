@@ -1,0 +1,23 @@
+# ---- 微软服务分流 ----
+
+# > Bing 系列
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,api.bing.microsoft.com
+DOMAIN-SUFFIX,bingads.microsoft.com
+
+# > Microsoft 系列服务
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,microsofttranslator.com
+IP-CIDR,13.104.0.0/14,no-resolve
+IP-CIDR,40.76.0.0/12,no-resolve
+IP-CIDR,52.136.0.0/13,no-resolve
+IP-CIDR,52.112.0.0/14,no-resolve
