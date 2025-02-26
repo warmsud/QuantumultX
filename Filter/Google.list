@@ -53,3 +53,10 @@ DOMAIN-SUFFIX,maps.google.com
 DOMAIN-SUFFIX,earth.google.com
 DOMAIN-SUFFIX,streetviewpixels-pa.googleapis.com
 DOMAIN-SUFFIX,streetviewcdn-pa.googleapis.com
+
+# > Google Photos
+DOMAIN-SUFFIX,photos.google.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
+DOMAIN-SUFFIX,lh4.googleusercontent.com
+DOMAIN-SUFFIX,lh5.googleusercontent.com
+DOMAIN-SUFFIX,lh6.googleusercontent.com
