@@ -1,5 +1,11 @@
-//Pillow - 睡眠周期跟踪
-//更新日期：2025年8月13日
+/*
+脚本功能：解锁Pillow Premium订阅会员
+脚本作者：PixMason
+更新时间：2025-08-13
+支持版本：商店最新 5.16.1
+下载地址：https://apps.apple.com/us/app/pillow-sleep-tracker/id878691772
+使用声明：此脚本仅供学习与交流，请勿转载与贩卖！
+*/
 
 try {
   const obj = JSON.parse($response.body);
